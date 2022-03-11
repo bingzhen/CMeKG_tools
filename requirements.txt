@@ -1,0 +1,4 @@
+fastapi==0.75.0
+numpy==1.21.2
+torch==1.10.2
+transformers==3.0.2
